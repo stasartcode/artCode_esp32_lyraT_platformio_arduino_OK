@@ -28,4 +28,5 @@ To run this example you need ESP32 LyraT or compatible board:
 - Insert a microSD card loaded with a MP3 files into board's slot.
 
 # Screenshot
+![Screenshot](artCode_doc/esp32_lyrat_audio_platformio_arduino.jpg)
 ![Screenshot](artCode_doc/log.jpg)
