@@ -1,4 +1,6 @@
-# PlatformIO ESP-ADF example
+# PlatformIO ESP-ADF next example
+# PlatformIO + VScode + Arduino ESP-ADF example - board ESP32 lyraT v4.3 /ESP32-WROVER/
+# player mp3 + touch buttons + auto SD card reading with lib dirent.h 
 
 ## Description
 
